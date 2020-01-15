@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9414a931-c5ed-4f63-80ea-4d0c111a5193" name="Default Changelist" comment="" />
+    <list default="true" id="9414a931-c5ed-4f63-80ea-4d0c111a5193" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pytorch/LeNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch/network_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch/pytorch_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data" beforeDir="false" afterPath="$PROJECT_DIR$/data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/shiyanlou-code" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,11 +28,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1TZK4DdKH8fmE0JaZNVdTZR2V7k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cruelking\PycharmProjects\machine_learning" />
+      <recent name="C:\Users\cruelking\PycharmProjects\machine_learning\data" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -38,7 +53,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.class_advanced">
+  <component name="RunManager" selected="Python.network_base">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="machine_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,27 +96,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="c (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="machine_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\cruelking\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="false" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\cruelking\PycharmProjects\machine_learning\class.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="c" type="PythonConfigurationType" factoryName="Python">
       <module name="machine_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +121,9 @@
       <module name="machine_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\cruelking\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -141,37 +138,16 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inheritance_and_polymorphism" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="network_base" type="PythonConfigurationType" factoryName="Python">
       <module name="machine_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\cruelking\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="false" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\cruelking\PycharmProjects\machine_learning\inheritance.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="kono" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="machine_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\cruelking\AppData\Local\Programs\Python\Python37\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Tencent Files/2016586625/FileRecv" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="false" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Tencent Files/2016586625/FileRecv/kono.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch/network_base.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,6 +160,9 @@
       <module name="machine_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\cruelking\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -198,22 +177,60 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="pytorch基础" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="machine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\cruelking\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\cruelking\PycharmProjects\machine_learning\pytorch\pytorch_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytorch_base" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="machine_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\cruelking\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="false" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorch/pytorch_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.network_base" />
       <item itemvalue="Python.c" />
       <item itemvalue="Python.bjt" />
-      <item itemvalue="Python.c (1)" />
-      <item itemvalue="Python.kono" />
+      <item itemvalue="Python.pytorch_base" />
       <item itemvalue="Python.class_advanced" />
-      <item itemvalue="Python.inheritance_and_polymorphism" />
       <item itemvalue="Python.polymorphism" />
+      <item itemvalue="Python.pytorch基础" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pytorch_base" />
+        <item itemvalue="Python.pytorch基础" />
         <item itemvalue="Python.class_advanced" />
         <item itemvalue="Python.polymorphism" />
-        <item itemvalue="Python.inheritance_and_polymorphism" />
-        <item itemvalue="Python.c (1)" />
-        <item itemvalue="Python.kono" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +252,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
