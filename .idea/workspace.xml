@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9414a931-c5ed-4f63-80ea-4d0c111a5193" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pytorch/LeNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/network_base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/pytorch_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorch/CNN_Mnist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data" beforeDir="false" afterPath="$PROJECT_DIR$/data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/shiyanlou-code" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/LeNet.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,6 +140,9 @@
       <module name="machine_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\cruelking\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -202,6 +203,9 @@
       <module name="machine_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="C:\Users\cruelking\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pytorch" />
       <option name="IS_MODULE_SDK" value="true" />
