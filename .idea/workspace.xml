@@ -2,33 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9414a931-c5ed-4f63-80ea-4d0c111a5193" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pytorch/NN_Mnist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/processed/test.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/processed/training.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/cnn.pth" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/processed/test.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/processed/training.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/raw/t10k-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/raw/t10k-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/raw/t10k-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/raw/t10k-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/raw/train-images-idx3-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/raw/train-images-idx3-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/raw/train-labels-idx1-ubyte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/data/MNIST/raw/train-labels-idx1-ubyte.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/data/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/pytorch_base2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data" beforeDir="false" afterPath="$PROJECT_DIR$/data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/shiyanlou-code" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytorch/NN_Mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch/NN_Mnist.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

@@ -48,9 +48,12 @@ optimizer = optim.SGD(model.parameters(), lr = learning_rate)
 for epoch in range(num_epoches):
     for data in train_loader:
         img, label = data
-        print(img.size(0))
+        # print(img.size(0))
         img = img.view(img.size(0), -1)
-        img, label = Variable(img).cuda(), Variable(label).cuda()
+        if torch.cuda.is_available():
+            img, label = Variable(img).cuda(), Variable(label).cuda()
+        else:
+            img, label = Variable(img), Variable(label)
         # =================forward====================#
         out = model(img)
         loss = criterion(out, label)
