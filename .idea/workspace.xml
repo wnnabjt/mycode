@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9414a931-c5ed-4f63-80ea-4d0c111a5193" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pytorch/AlexNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/GoogleNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorch/VGGNet.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data" beforeDir="false" afterPath="$PROJECT_DIR$/data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/shiyanlou-code" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytorch/CNN_Mnist.py" beforeDir="false" afterPath="$PROJECT_DIR$/pytorch/LeNet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
